@@ -1,0 +1,167 @@
+body {
+    
+    width: 980px;
+    height: 495px;
+    margin-left: 220px;
+}
+
+#home {
+    
+    width: 980px;
+    height: 495px;
+    background-image: url(barcoprincipal.jpg);
+}
+
+#topo {
+    
+    background-color: #21272B;
+    display: flex;
+}
+
+#imagem-topo {
+    
+    width: 40px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+#titulo-topo {
+    
+    width: 180px;
+}
+
+#atalhos {
+    
+    width: 700px;
+    display: inline;
+    margin-left: auto;
+}
+
+li {
+    
+    width: 200px;
+    display: inline;
+}
+
+#imagem-titulo {
+    
+    display: flex;
+    width: 290px;
+}
+
+ul {
+    
+    margin-top: 80px;
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: white;
+}
+
+#quadro {
+    
+    color: white;
+    width: 440px;
+    height: 200px;
+    background-color: #1A3243;
+    margin-left: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+#img_frase_quadro {
+    
+    display: flex;
+}
+
+#frase_quadro {
+    
+    width: 300px;
+}
+
+#img_quadro {
+    
+    width: 30px;
+    margin-top: 20px;
+}
+
+#numero_quadro {
+    
+    color: yellow;
+}
+
+#destinos_frotas {
+    
+    display: flex;
+}
+
+#destinos {
+    
+    margin-left: 17px;
+}
+
+#nossa_frota {
+    
+    margin-left: 25px;
+}
+
+#img_frase {
+    
+    background-color: blue;
+    display: flex;
+    width: 455px;
+    height: 69px;
+}
+
+#img_destino {
+    
+    margin-top: 15px;
+}
+
+#frase_destino {
+    
+    width: 200px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-top: 7px;
+}
+
+#frase_destinos_h2 {
+    
+    margin-top: 14px;
+}
+
+#lorem_destinos {
+    
+    width: 455px;
+}
+
+#img_frase_nossa {
+    
+    background-color: maroon;
+    width: 455px;
+    display: flex;
+}
+
+#img_nossafrota {
+    
+    width: 40px;
+    margin-top: 15px;
+}
+
+#frase_nossafrota {
+    
+    width: 200px;
+}
+
+#lorem_nossafrota {
+    
+    width: 455px;
+}
